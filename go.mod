@@ -1,4 +1,4 @@
-module modernc.org/sqlite
+module github.com/jdgcs/sqlite3
 
 go 1.15
 
